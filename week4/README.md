@@ -83,3 +83,48 @@ There is an option that if the vc buys the stock for 1$ each, and later figure o
 
 But also the more fair situation, is to see how many stocks have been given to someone else for cheaper. If it doesn't make a big difference in the whole investment, the vc doesn't care much.
 
+#### Board of Directors:
+
+The most prominent team of the company, who set strategies, recruit, network, bring experience, and help the founders run the company. 
+ 
+In the first stage of the startup, the best idea for the startup, is to have the founder, a vc representative, and an outsider (who is not the shareholder), as the board of directors. It seems to be a good balance.
+
+
+Sometimes, vc's want to bring an associate or observer, in most of cases, it won't be a good idea, unless they are so helpful.
+
+The other advice, is to keep the board as small as possible, and only consisting people whom we love.
+
+We better have the board on first day of starting the business.
+
+__Protective Provisions:__ Protective provisions are the list of things, that the company can't do unless it gets the shareholders' approval. It is usually between 8-12 items. for example, you can't sell the company unless you get permission, etc. 
+
+We have to be so careful of this setcion, and talk about it a lot. It is an area that if we don't understand or abide by, there could be lawsuit cases against us.
+
+Make sure this agreements are made ONLY for major decisions and not every single management decision.
+
+__Drag Along:__ It says: If you are no longer with the company, the rest of the common shareholders can vote on your stock, and portion it however way they vote. Don't forget the preferred stock holders won't be including into this contracts because they paid for the company and will stay till they get all their stock back.
+
+__Conversion:__ It means I always have the right to convert my preferred stock to common stock. Imagine this example, if I have 2M of preferred stock, and in the future the company is sold for 100M, I can only get my 2M back, if it's not converted to common stock. 
+
+On the first day of the company, the ratio between the preferred and common is 1:1, but when two condition happens, it can change:
+
+1) Someone did stock split
+2) Anti delusion situation
+
+For example, if I bought the share for 1$, then later we sell the shares for 50 cents per stock, I will have the right to convert from 10% of preferred, into 20% of common.
+
+[here](https://vimeo.com/54981784) is a good lecture, on liquidation preference.
+
+in this lecture, there are some good tips:
+
+(non-participating-1x-liquidation-preference.jpg) explains how the investor who paid 0.5M as the seed investment, for 20%, get to decide to convert to common or keep the 20% preferred. It shows that it depends on how much the company is sold. If it is 0.5M, the investor gets all the money. between 0.5M and 2.5M it's better to keep the preferred because the amount of preferred is more than 20% of sold price. But for any amount higher than 2.5M, the investor would rather convert to common, because the 20% of sold price will be higher than the 0.5M of the preferred.  for example if it is 5M, 20% of it would be 1M, rather than 0.5M the vc gets if they don't convert.
+
+Here is a big conflict between the vc and the founders. For example, if the company is going to get sold for 1M, according the the chart above, the vc wouldn't care much to negotiate for 2M sale price b because they still get their 0.5M and 2M wouldn't be a good incentive for them but for the founder it will be 1.2M difference. So, the founder has a higher incentive. and it can get worse until the price gets into the point that the vc would benefit too.
+
+Another scenario, is to have a series A investor, and they put 5M and then the order will be, series A gets their 5M first, then the seed gets 0.5M, then whatever is left, the founders will get it. The problem is, if the company is sold for 5M, the seed investor gets nothing. And they would of course hate to have another investor onboard. but it is so common that companies get rounds E, F etc. and there will be a complicated chart of stacked interest for different investors and cause conflicts. Good companies prefer to clean up the liquidity stack, before they move to the next round, because they don't want all of this interest mis-alignment to be dragged along with the company.
+(phot: liquidation-preferences-interest-misalignments.jpg)
+
+ 
+ 
+
+
